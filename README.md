@@ -1,2 +1,4 @@
-# HHT
-about Hilbert Huang transform method 
+## HHT
+### Ideas about Hilbert Huang transform method 
+* Advantages
+* Weak points
